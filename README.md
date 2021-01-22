@@ -8,7 +8,7 @@
 - 🎯 2021 Goals: **Contribute more to Open Source projects**
 - 🤹 Fun fact: **I mostly like to apply my knowledge to real-life projects**
 - ☕ Coffe addicted & music lover 
-- 😎 Looking for a **contact me?** [Send me message]("#")👈
+- 😎 Looking for a **contact me?** [Send me message]("https://send-me-a-message.netlify.app/")👈
 
 ### Languages and Tools:
 
