@@ -2,12 +2,13 @@
 
 ## I'm a Student, Undergraduate, Developer, and Designer 💻❤️
 
-- 🔭 I’m currently working as a freelancer
-- 🌱 I’m currently learning computer science 
-- 👯 I’m looking to collaborate with other developers
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and digital arts and listening to  music
-
+- 📘 I’m currently Learning at **Uva Wellassa University of Sri Lanka**
+- 💻 I’m currently learning **Computer Science** 
+- 😍 I’m looking to **Collaborate with other developers**
+- 🎯 2021 Goals: **Contribute more to Open Source projects**
+- 🤹 Fun fact: **I mostly like to apply my knowledge to real-life projects**
+- ☕ Coffe addicted & music lover 
+- 😎 Looking for a contact me? [Send me message]("#")👈
 
 ### Languages and Tools:
 
