@@ -4,11 +4,11 @@
 
 - 📘 I’m currently Learning at **Uva Wellassa University of Sri Lanka**
 - 💻 I’m currently learning **Computer Science** 
-- 😍 I’m looking to **Collaborate with other developers**
+- 😍 I’m looking to **Collaborate with other developers & knowledge sharing**
 - 🎯 2021 Goals: **Contribute more to Open Source projects**
 - 🤹 Fun fact: **I mostly like to apply my knowledge to real-life projects**
 - ☕ Coffe addicted & music lover 
-- 😎 Looking for a contact me? [Send me message]("#")👈
+- 😎 Looking for a **contact me?** [Send me message]("#")👈
 
 ### Languages and Tools:
 
