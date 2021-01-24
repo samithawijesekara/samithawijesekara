@@ -2,7 +2,7 @@
 
 ## I'm a Student, Undergraduate, Developer, and Designer 💻❤️
 
-<img src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" width="350" align="right">
+<img src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" width="330" align="right">
 
 - 📘 I’m currently Learning at **Uva Wellassa University of Sri Lanka**
 - 💻 I’m currently learning **Computer Science** 
