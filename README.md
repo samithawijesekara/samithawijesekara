@@ -2,13 +2,16 @@
 
 ## I'm a Student, Undergraduate, Developer, and Designer 💻❤️
 
+<img src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" width="400" align="right">
+
 - 📘 I’m currently Learning at **Uva Wellassa University of Sri Lanka**
 - 💻 I’m currently learning **Computer Science** 
 - 😍 I’m looking to **Collaborate with other developers & knowledge sharing**
 - 🎯 2021 Goals: **Contribute more to Open Source projects**
 - 🤹 Fun fact: **I mostly like to apply my knowledge to real-life projects**
-- ☕ Coffe addicted & music lover 
+- ☕ **Coffe addicted & Music lover** 
 - 😎 Looking for a **contact me?** [Send me a message](https://send-me-a-message.netlify.app/)👈
+
 
 ### Languages and Tools:
 
