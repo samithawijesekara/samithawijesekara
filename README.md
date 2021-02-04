@@ -1,6 +1,5 @@
 ### Hi there, I'm Samitha Wijesekara 👋 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=samithawijesekara&label=Profile%20views&color=0e75b6&style=flat" alt="samithawijesekara" /> <img alt="GitHub followers" src="https://img.shields.io/github/followers/samithawijesekara?label=GitHub%20Followers&logo=Github"></p>
-
+<p align="left"><img src="https://komarev.com/ghpvc/?username=samithawijesekara&label=Profile%20views&color=0e75b6&style=flat" alt="samithawijesekara" /> 
 ## I'm a Student, Undergraduate, Developer, and Designer 💻❤️
 
 <img src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" width="330" align="right">
