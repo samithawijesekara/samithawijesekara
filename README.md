@@ -8,7 +8,7 @@
 - 📘 I’m currently Learning at **Uva Wellassa University of Sri Lanka**
 - 💻 I’m currently studying **Computer Science** 
 - 😍 I’m looking to **Collaborate with other developers & knowledge sharing**
-- 🎯 2021 Goals: **Contribute more to Open Source projects**
+- 🎯 2022 Goals: **Contribute more to Open Source projects**
 - 🤹 Fun fact: **I mostly like to apply my knowledge to real-life projects**
 - ☕ **Coffe addicted & Music lover** 
 - 😎 Looking for a **contact me?** [Send me a message](https://send-me-a-message.netlify.app/)👈
