@@ -1,7 +1,7 @@
 # Hi there, I'm Samitha Wijesekara 👋 
 <!-- <p align="left"><img src="https://komarev.com/ghpvc/?username=samithawijesekara&label=Profile%20views&color=0e75b6&style=flat" alt="samithawijesekara" /><br> -->
   
-## I'm a Student, Undergraduate, Developer, and Designer 💻❤️
+## Passionate about Fullstack / Frontend Development & UI/UX 💻❤️
 
 <!-- <img src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" width="330" align="right"> -->
 
@@ -9,6 +9,7 @@
 - 💻 I’m currently studying **Computer Science** 
 - 😍 I’m looking to **Collaborate with other developers & knowledge sharing**
 - 🎯 2022 Goals: **Contribute more to Open Source projects**
+- ☁️ I’m willing to expand my knowledge in **Mobile Development & Cloud Technologies**.
 - 🤹 Fun fact: **I mostly like to apply my knowledge to real-life projects**
 - ☕ **Coffe addicted & Music lover** 
 - 😎 How to **reach me**: [Ckick here](https://send-me-a-message.netlify.app/)
