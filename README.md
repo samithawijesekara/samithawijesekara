@@ -12,7 +12,7 @@
 - ☁️ I’m willing to expand my knowledge in **Mobile Development & Cloud Technologies**
 - 🤹 Fun fact: **I mostly like to apply my knowledge to real-life projects**
 - ☕ **Coffe addicted & Music lover** 
-- 😎 How to **reach me ?** [Ckick here](https://samithawijesekara.vercel.app/)
+- 😎 How to **reach me ?** [Ckick here](https://samithawijesekara.me/)
 
 
 ## 📈 Activities:
