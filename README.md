@@ -14,6 +14,12 @@
 - ☕ **Coffeeholic** & **Music Lover**.
 - 😎 How to reach me? [**Ckick here to view Portfolio**](https://samithawijesekara.vercel.app/)
 
+<p align="center">
+  <a href="https://samithawijesekara.vercel.app/">
+    <img src="/assets/portfolio.png" width="400" height="auto" style="border-radius: 50%;" />
+  </a>
+</p>
+
 
 ## 📈 Activities:
 
