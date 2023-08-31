@@ -1,18 +1,18 @@
 # Hi there, I'm Samitha Wijesekara 👋 
 <!-- <p align="left"><img src="https://komarev.com/ghpvc/?username=samithawijesekara&label=Profile%20views&color=0e75b6&style=flat" alt="samithawijesekara" /><br> -->
   
-## Passionate about Fullstack / Frontend Development & UI/UX 💻❤️
+## Passionate about Full-Stack Software Engineering 💻❤️
 
 <!-- <img src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" width="330" align="right"> -->
 
-- 📘 I’m currently Learning at **Uva Wellassa University of Sri Lanka**
-- 💻 I’m currently studying **Computer Science** 
-- 😍 I’m looking to **Collaborate with other developers & knowledge sharing**
-- 🎯 2023 Goals: **Contribute more to Open Source projects**
-- ☁️ I’m willing to expand my knowledge in **Mobile Development & Cloud Technologies**
-- 🤹 Fun fact: **I mostly like to apply my knowledge to real-life projects**
-- ☕ **Coffe addicted & Music lover** 
-- 😎 How to **reach me ?** [Ckick here](https://samithawijesekara.me/)
+- 📘 I've just finished my CS degree at **Uva Wellassa University of Sri Lanka**.
+- 💻 I'm currently working on **Full-Stack Software Engineering**.
+- 😍 I'm looking to **collaborate with other developers for knowledge sharing**.
+- 🎯 2023 Goals: **Contribute more to innovative tech projects**.
+- ☁️ I'm willing to expand my knowledge in **Mobile Development, Cloud Technologies, and DevOps Practices**.
+- 🤹 Fun fact: I mostly like to apply my knowledge to **real-life projects**.
+- ☕ **Coffeeholic** & **Music Lover**.
+- 😎 How to reach me? [**Ckick here to view Portfolio**](https://samithawijesekara.vercel.app/)
 
 
 ## 📈 Activities:
