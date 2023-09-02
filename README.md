@@ -1,7 +1,11 @@
 # Hi there, I'm Samitha Wijesekara 👋 
 <!-- <p align="left"><img src="https://komarev.com/ghpvc/?username=samithawijesekara&label=Profile%20views&color=0e75b6&style=flat" alt="samithawijesekara" /><br> -->
   
-## Passionate about Full-Stack Software Engineering 💻❤️
+## Full-stack Software Engineering passionate about Front-end 💻❤️
+
+<p align="center">
+    <img src="/assets/cover.png" width="auto" height="auto" style="border-radius: 50%;" />
+</p>
 
 <!-- <img src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" width="330" align="right"> -->
 
