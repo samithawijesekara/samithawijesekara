@@ -16,7 +16,7 @@
 - ☁️ I'm willing to expand my knowledge in **Mobile Development, Cloud Technologies, and DevOps Practices**.
 - 🤹 Fun fact: I mostly like to apply my knowledge to **real-life projects**.
 - ☕ **Coffeeholic** & **Music Lover**.
-- 😎 How to reach me? [**Ckick here to view Portfolio**](https://samithawijesekara.vercel.app/)
+- 😎 How to reach me? [**Click here to view Portfolio**](https://samithawijesekara.vercel.app/)
 
 <p align="center">
   <a href="https://samithawijesekara.vercel.app/">
@@ -30,7 +30,7 @@
 <div>
 <!--     <img src="https://activity-graph.herokuapp.com/graph?username=samithawijesekara&theme=chartreuse-dark&hide_border=true&area=true" alt="Samitha's Activity Graph" width="100%"> -->
 <!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=samithawijesekara&theme=chartreuse-dark&hide_border=true" alt="Sayan's Streak" width="49%" > -->
-    <img src="https://github-readme-stats.vercel.app/api?username=samithawijesekara&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true" alt="Sayan's Github Activity" width="49%">
+    <img src="https://github-readme-stats.vercel.app/api?username=samithawijesekara&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true" alt="Samitha's Github Activity" width="49%">
 </div>
 
 
