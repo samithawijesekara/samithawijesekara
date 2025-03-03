@@ -3,7 +3,7 @@
 ### 🌟 Passionate Software Engineer | Full-Stack Development Enthusiast 💻❤️  
 
 <p align="center">
-    <img src="/assets/github-cover.png" width="auto" height="auto" style="border-radius: 50%;" />
+    <img src="/assets/GitHub-Cover.png" width="auto" height="auto" style="border-radius: 50%;" />
 </p>
 
 <!-- <img src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" width="330" align="right"> -->
