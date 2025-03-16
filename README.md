@@ -9,7 +9,7 @@
 <!-- <img src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" width="330" align="right"> -->
 
 ### 🚀 About Me
-
+<!-- 
 - 💻 **Full-Stack Software Engineer** with a knack for turning ideas into scalable, real-world solutions.  
 - 🎓 **Computer Science Graduate** from **Uva Wellassa University of Sri Lanka**.  
 - 🎯 **2025 Goals**: Contribute to innovative tech projects and build better software solutions.  
@@ -17,6 +17,27 @@
 - 😍 Always looking to **collaborate with developers** for learning and knowledge sharing.  
 - ☕ **Coffeeholic**, with a side of coding adventures. 
 - 🌐 How to reach me? [**Click here to view Portfolio**](https://samithawijesekara.vercel.app/)
+-->
+
+As a dedicated Software Engineer, I thrive on building innovative solutions and enhancing user experiences. With a solid foundation in both back-end and front-end technologies, I develop AI-powered POCs, MVPs, Micro-SaaS, SaaS applications, and scalable Enterprise Solutions.
+
+👨‍💻 𝗕𝗮𝗰𝗸-𝗘𝗻𝗱 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀: 
+Node.js, NestJS, SQL (MySQL, PostgreSQL), NoSQL (MongoDB), Elasticsearch, REST API, GraphQL, Microservices, RabbitMQ, Docker, Java, Spring Boot(intermediate), and CI/CD
+
+👨‍💻 𝗙𝗿𝗼𝗻𝘁-𝗘𝗻𝗱 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀: 
+React.js, Next.js, TypeScript, Redux, Tailwind CSS, Bootstrap, HTML, CSS, JavaScript, and Angular(intermediate)
+
+☁️ 𝗖𝗹𝗼𝘂𝗱 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀: 
+AWS - Familiar with S3, EC2, RDS, Dynamo DB, Cognito, IAM, LightSail, CloudFront, Route 53
+
+⚒️ 𝗖𝗼𝗹𝗹𝗮𝗯𝗼𝗿𝗮𝘁𝗶𝗼𝗻 𝗧𝗼𝗼𝗹𝘀: 
+Familiar with Figma for UI/UX design, Git, Jira, and Postman.
+
+I believe in the power of teamwork and knowledge sharing. My strengths include problem-solving, creativity, critical thinking, adaptability, and a commitment to continuous learning. I am eager to deepen my expertise in Systems Design, Cloud Technologies, and DevOps Practices while adhering to best practices for innovation and excellence.
+
+I am excited about the opportunity to collaborate on building scalable solutions that drive impact. 
+
+Let’s connect! 🤝
 
 <p align="center">
   <a href="https://samithawijesekara.vercel.app/">
